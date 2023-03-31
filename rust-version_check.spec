@@ -5,7 +5,7 @@
 
 Name:           rust-%{crate}
 Version:        0.9.3
-Release:        1
+Release:        2
 Summary:        Tiny crate to check the version of the installed/running rustc
 
 # Upstream license specification: MIT/Apache-2.0
