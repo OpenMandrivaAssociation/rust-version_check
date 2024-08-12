@@ -4,8 +4,8 @@
 %global crate version_check
 
 Name:           rust-%{crate}
-Version:        0.9.3
-Release:        2
+Version:        0.9.5
+Release:        1
 Summary:        Tiny crate to check the version of the installed/running rustc
 
 # Upstream license specification: MIT/Apache-2.0
